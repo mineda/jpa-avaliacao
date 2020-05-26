@@ -2,3 +2,9 @@
 
 # jpa-avaliacao
 Exemplo do uso de JPA
+
+## Compilação
+Para compilar use: mvn compile
+
+## Execução
+Para executar use: mvn exec:java -Dexec.mainClass="br.gov.sp.fatec.avaliacao.App"
