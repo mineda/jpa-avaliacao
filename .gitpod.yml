@@ -1,0 +1,3 @@
+tasks:
+  - init: mysql < MySQL_Script.sql
+image: gitpod/workspace-mysql
